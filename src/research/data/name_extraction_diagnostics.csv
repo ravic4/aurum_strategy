@@ -1,0 +1,7 @@
+column,score,nonempty,unique,unique_ratio,avg_len,numeric_parse_ratio,date_parse_ratio
+Carrier Name,0.724661,30291,238,0.0079,13.24,0.0,0.0
+Carrier Group,0.664393,30291,4,0.0001,9.86,0.0,0.0
+Month Date,0.623764,30291,430,0.0142,10.0,0.0,1.0
+Total,0.614875,30291,9667,0.3191,3.45,1.0,0.0437
+Full Time,0.60588,30291,9180,0.3031,3.39,1.0,0.043
+Part Time,0.513248,30291,4651,0.1535,2.24,1.0,0.0161
