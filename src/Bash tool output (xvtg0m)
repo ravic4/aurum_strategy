@@ -1,0 +1,62 @@
+Saved: src/research/data/strategy_backtest/algt_entry_exit_points.png
+
+================================================================================
+TRADE LOG: Entry & Exit Points
+================================================================================
+
+Date         Action               Price    Trade P&L
+--------------------------------------------------
+2021-06-30   ENTER LONG      $  194.00 
+2021-07-30   EXIT LONG       $  190.12      -2.00%
+2021-07-30   ENTER SHORT     $  190.12 
+2022-10-31   EXIT SHORT      $   75.05      60.52%
+2022-10-31   ENTER LONG      $   75.05 
+2022-11-30   EXIT LONG       $   82.61      10.07%
+2022-11-30   ENTER SHORT     $   82.61 
+2023-03-31   EXIT SHORT      $   91.98     -11.34%
+2023-03-31   ENTER LONG      $   91.98 
+2023-04-28   EXIT LONG       $  103.91      12.97%
+2023-04-28   ENTER SHORT     $  103.91 
+2023-05-31   EXIT SHORT      $   97.49       6.18%
+2023-05-31   ENTER LONG      $   97.49 
+2023-07-31   EXIT LONG       $  123.70      26.88%
+2023-07-31   ENTER SHORT     $  123.70 
+2023-09-29   EXIT SHORT      $   76.86      37.87%
+2023-09-29   ENTER LONG      $   76.86 
+2023-10-31   EXIT LONG       $   66.62     -13.32%
+2023-10-31   ENTER SHORT     $   66.62 
+2024-03-28   EXIT SHORT      $   75.21     -12.89%
+2024-03-28   ENTER LONG      $   75.21 
+2024-04-30   EXIT LONG       $   54.56     -27.46%
+2024-04-30   ENTER SHORT     $   54.56 
+2024-07-31   EXIT SHORT      $   56.07      -2.77%
+2024-07-31   ENTER LONG      $   56.07 
+2024-08-30   EXIT LONG       $   42.08     -24.95%
+2024-08-30   ENTER SHORT     $   42.08 
+2024-09-30   EXIT SHORT      $   55.06     -30.85%
+2024-09-30   ENTER LONG      $   55.06 
+2025-01-31   EXIT LONG       $  102.43      86.03%
+2025-01-31   ENTER SHORT     $  102.43 
+2025-03-31   EXIT SHORT      $   51.65      49.58%
+2025-03-31   ENTER LONG      $   51.65 
+2025-05-30   EXIT LONG       $   55.58       7.61%
+2025-05-30   ENTER SHORT     $   55.58 
+2025-06-30   EXIT SHORT      $   54.95       1.13%
+2025-06-30   ENTER LONG      $   54.95 
+2025-07-31   EXIT LONG       $   51.64      -6.02%
+2025-07-31   ENTER SHORT     $   51.64 
+2025-08-29   EXIT SHORT      $   62.66     -21.34%
+2025-08-29   ENTER LONG      $   62.66 
+
+================================================================================
+TRADE SUMMARY
+================================================================================
+Total signal changes: 41
+Long entries: 11
+Short entries: 10
+
+Closed trades: 20
+Winning trades: 10 (50.0%)
+Losing trades: 10 (50.0%)
+Avg win: 29.88%
+Avg loss: -15.29%
