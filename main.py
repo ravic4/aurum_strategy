@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from src.alpaca_client import get_alpaca_client
 
-
+print ('hello world')
 def main():
     load_dotenv()
     symbol = os.getenv("SYMBOL", "AAPL")
